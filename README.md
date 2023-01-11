@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nilansh Kumar
 - 👀 I’m interested in Coding, Web Development, Data Science
 - 🌱 I’m currently learning Data Science, Web Developement
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 💞️ I’m looking to collaborate in Web Development Projects
 - 📫 How to reach me @nilansh_07
 
 <!---
