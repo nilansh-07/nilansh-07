@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilansh Kumar</h1>
 <h3 align="center">A passionate Machine Learning,Java & Web developer from India</h3>
 
-<img src="gifimg.png" align="right" alt="coding" width="400">
+
+
+<img align="right" alt="coding" width="400" src="https://images.yourstory.com/cs/1/be1a9aa0-f94e-11e8-9dfb-d73ab0a77acb/hire-full-stack-developers1546507474317.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilansh-07&label=Profile%20views&color=0e75b6&style=flat" alt="nilansh-07" /> </p>
 
