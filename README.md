@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Java,Web Development**
 
-- 📫 How to reach me **nilanshkumar7500@gmail.com**
+- 📫 How to reach me **contact.nilansh07@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny😅**
+- ⚡ Fun fact **I think I love Traveling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
