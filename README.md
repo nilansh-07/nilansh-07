@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilansh Kumar</h1>
-<h3 align="center">A passionate Machine Learning,Java & Web developer from India</h3>
+<h3 align="center">A passionate Machine Learning, Java & Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.yourstory.com/cs/1/be1a9aa0-f94e-11e8-9dfb-d73ab0a77acb/hire-full-stack-developers1546507474317.gif">
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact.nilansh07@gmail.com**
 
-- ⚡ Fun fact **I think I love Traveling.**
+- ⚡ Fun fact **I love Traveling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
