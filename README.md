@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilansh Kumar</h1>
-<h3 align="center">A passionate about Java, DSA and Front-End Development</h3>
+<h3 align="center">A passionate about Java, DSA and MERN Stack Development</h3>
 
 [![](https://visitcount.itsvg.in/api?id=nilansh-07&icon=0&color=12)](https://visitcount.itsvg.in)
 
