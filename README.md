@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nilansh Kumar</h1>
-<h3 align="center">A passionate about Java, DSA and MERN Stack Development</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋 , I'm Nilansh</h1>
+<h3 align="center">A passionate about MERN Stack Development, Java, and DSA</h3>
 
 [![](https://visitcount.itsvg.in/api?id=nilansh-07&icon=0&color=12)](https://visitcount.itsvg.in)
 
-🌱 I’m currently learning AI/ML<br><br>💬 Ask me about Java, Python, and Front-End Development<br><br>📫 How to reach me nilanshkumar7500@gmail.com<br><br>⚡ Fun fact is that I Love Traveling to New Places
+🌱 I’m currently learning AI/ML<br><br>💬 Ask me about Java, Python, and MERN Stack Development<br><br>📫 How to reach me nilanshkumar7500@gmail.com<br><br>⚡ Fun fact is that I Love Traveling to New Places
 
 
 ## 🌐 Socials:
