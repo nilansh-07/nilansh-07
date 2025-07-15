@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 , I'm Nilansh</h1>
+<h1 align="center">Hey there 👋, I'm Nilansh</h1>
 <h3 align="center">🚀 Full-Stack Developer | Java Aficionado | DSA Enthusiast | AI/ML Explorer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=nilansh-07&icon=0&color=12)](https://visitcount.itsvg.in)
