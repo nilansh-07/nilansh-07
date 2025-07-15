@@ -9,9 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nilansh-07&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nilansh-07&color=0e75b6" alt="Profile Views"/>
 </p>
 
 
