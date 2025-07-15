@@ -45,10 +45,33 @@
 
 ## 🛠 Tech Stack
 
-**Languages**: Java, JavaScript, Python, HTML, SQL  
-**Frameworks**: React.js, Node.js, Express.js  
-**Databases**: MongoDB, MySQL  
-**Libraries & Tools**: GraphQL, WebSockets, Gradio, Git, VS Code, Matplotlib, Pandas, NumPy
+### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🧩 Frameworks & Runtime  
+![React.js](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white)
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
+
+### 🛠 Libraries & Tools  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23000000?style=flat-square&logo=websocket&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%2300AEEF?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+
 
 ---
 
