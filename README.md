@@ -55,16 +55,18 @@
 ## 🏆 Certifications & Achievements
 
 ### 🧠 Technical Certifications
-- [AI Premier Certification – Infosys](https://drive.google.com/file/d/1dpUHez0CW_BkLiC5jtzGK_OsRLs1m7_z/view?pli=1)  
-- [Certified Software Engineer – HackerRank](https://www.hackerrank.com/certificates/iframe/1fb8d2ae5767)  
-- [Problem Solving (Top 10%) – HackerRank](https://www.hackerrank.com/certificates/iframe/9630060828c6)  
-- [Front-End Development Certification](https://drive.google.com/file/d/1qsvcAc3BtSKwKyqLhu53MrWjo-Qwdjzt/view?usp=sharing)  
-- [Python Programming Language](https://drive.google.com/file/d/1lj5zdaroSyqOb61C3VQcJXVlGvy9WhxH/view?usp=sharing)  
-- [Intermediate Problem Solver](https://drive.google.com/file/d/1mvjiXl43wZF64yZNZzcTfvq5sMDbpr81/view?usp=sharing)  
-- [Certified Software Intern](https://drive.google.com/file/d/1KjJMzq9xq76epeTwLBgxjfigOZdzn7it/view?usp=sharing)  
-- [AI/ML for Geodata Analysis](https://drive.google.com/file/d/1OatUosK5i_1YZj5LLT9nJY8BtjS_Fshv/view?usp=sharing)  
-- [Principles of Generative AI](https://drive.google.com/file/d/1S5aDSFRY7yMKg99XhyNIyVX4z7L1ccZQ/view?usp=sharing)  
-- [Infosys Springboard Internship Certificate](https://drive.google.com/file/d/1Do-7hcyfMrGEeZ2z0JT8KEG2limkZxtN/view?usp=sharing)  
+
+[![AI Premier - Infosys](https://img.shields.io/badge/AI_Premier_Infoys-%23007ACC?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dpUHez0CW_BkLiC5jtzGK_OsRLs1m7_z/view?usp=sharing)
+[![Certified Software Engineer](https://img.shields.io/badge/Software_Engineer-HackerRank-%23121011?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/1fb8d2ae5767)
+[![Problem Solving - Top 10% (HackerRank)](https://img.shields.io/badge/Problem%20Solving%20–%20Top%2010%25-%232EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/9630060828c6)
+[![Front-End Development](https://img.shields.io/badge/Front_End_Dev-%233399FF?style=flat-square&logo=react&logoColor=white)](https://drive.google.com/file/d/1qsvcAc3BtSKwKyqLhu53MrWjo-Qwdjzt/view?usp=sharing)
+[![Python Programming](https://img.shields.io/badge/Python_Programming-%233776AB?style=flat-square&logo=python&logoColor=white)](https://drive.google.com/file/d/1lj5zdaroSyqOb61C3VQcJXVlGvy9WhxH/view?usp=sharing)
+[![Intermediate Problem Solver](https://img.shields.io/badge/Intermediate_Problem_Solver-%23FFA500?style=flat-square&logo=leetcode&logoColor=white)](https://drive.google.com/file/d/1mvjiXl43wZF64yZNZzcTfvq5sMDbpr81/view?usp=sharing)
+[![Certified Software Intern](https://img.shields.io/badge/Software_Intern-Certified-%2360B5CC?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1KjJMzq9xq76epeTwLBgxjfigOZdzn7it/view?usp=sharing)
+[![AI/ML for Geodata Analysis](https://img.shields.io/badge/AI_ML_Geodata-%23007ACC?style=flat-square&logo=google-earth&logoColor=white)](https://drive.google.com/file/d/1OatUosK5i_1YZj5LLT9nJY8BtjS_Fshv/view?usp=sharing)
+[![Principles of Generative AI](https://img.shields.io/badge/Generative_AI-%235C2D91?style=flat-square&logo=openai&logoColor=white)](https://drive.google.com/file/d/1S5aDSFRY7yMKg99XhyNIyVX4z7L1ccZQ/view?usp=sharing)
+[![Infosys Internship](https://img.shields.io/badge/Infosys_Internship-%230077B5?style=flat-square&logo=infosys&logoColor=white)](https://drive.google.com/file/d/1Do-7hcyfMrGEeZ2z0JT8KEG2limkZxtN/view?usp=sharing)
+
 - ✅ Solved **400+ Leetcode Problems**  
 - ✅ Cleared **TCS NQT Exam – Prime Role Eligible**
 
