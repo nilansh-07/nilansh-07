@@ -54,12 +54,25 @@
 
 ## 🏆 Certifications & Achievements
 
-- 🧠 [AI Premier Certification (Infosys)](https://drive.google.com/file/d/1dpUHez0CW_BkLiC5jtzGK_OsRLs1m7_z/view?pli=1)  
-- 🏅 [Hackerrank – Problem Solving (Top 10%)](https://www.hackerrank.com/certificates/iframe/9630060828c6)  
-- 🧪 [Hackerrank – Software Engineer Role](https://www.hackerrank.com/certificates/iframe/1fb8d2ae5767)  
-- 📈 Solved **400+ Leetcode Problems**  
-- ✅ Cleared **TCS NQT Exam** for TCS Prime Role  
-- 💡 Participated in **Smart India Hackathon**
+### 🧠 Technical Certifications
+- [AI Premier Certification – Infosys](https://drive.google.com/file/d/1dpUHez0CW_BkLiC5jtzGK_OsRLs1m7_z/view?pli=1)  
+- [Certified Software Engineer – HackerRank](https://www.hackerrank.com/certificates/iframe/1fb8d2ae5767)  
+- [Problem Solving (Top 10%) – HackerRank](https://www.hackerrank.com/certificates/iframe/9630060828c6)  
+- [Front-End Development Certification](https://drive.google.com/file/d/1qsvcAc3BtSKwKyqLhu53MrWjo-Qwdjzt/view?usp=sharing)  
+- [Python Programming Language](https://drive.google.com/file/d/1lj5zdaroSyqOb61C3VQcJXVlGvy9WhxH/view?usp=sharing)  
+- [Intermediate Problem Solver](https://drive.google.com/file/d/1mvjiXl43wZF64yZNZzcTfvq5sMDbpr81/view?usp=sharing)  
+- [Certified Software Intern](https://drive.google.com/file/d/1KjJMzq9xq76epeTwLBgxjfigOZdzn7it/view?usp=sharing)  
+- [AI/ML for Geodata Analysis](https://drive.google.com/file/d/1OatUosK5i_1YZj5LLT9nJY8BtjS_Fshv/view?usp=sharing)  
+- [Principles of Generative AI](https://drive.google.com/file/d/1S5aDSFRY7yMKg99XhyNIyVX4z7L1ccZQ/view?usp=sharing)  
+- [Infosys Springboard Internship Certificate](https://drive.google.com/file/d/1Do-7hcyfMrGEeZ2z0JT8KEG2limkZxtN/view?usp=sharing)  
+- ✅ Solved **400+ Leetcode Problems**  
+- ✅ Cleared **TCS NQT Exam – Prime Role Eligible**
+
+### 🌱 Soft Skills Certifications
+- [Typing Certification](https://drive.google.com/file/d/1aVTRYT4n0XjjTw1Ae4Q9W31As6kyTJgc/view?usp=sharing)  
+- [Personality Development](https://drive.google.com/file/d/1EdQaxY4nfcFA8kpwvMxDgxCoITREcpVU/view?usp=sharing)  
+- [Creative Confidence](https://drive.google.com/file/d/1Wxozf2IuuxDWwR_kIRMCKAGXJl7dyTcb/view?usp=sharing)  
+- [Active Listening](https://drive.google.com/file/d/1RY7t6ke_8d_gmOZlI-kOEnfeiajeBCpT/view?usp=sharing)
 
 ---
 
