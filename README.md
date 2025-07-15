@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160" alt="Hello Gif" />
 </div>
 
-<h1 align="center">Hey there 👋, I'm Nilansh Kumar</h1>
-<h3 align="center">Full-Stack Developer | Java Aficionado | DSA Problem Solver | AI/ML Enthusiast</h3>
+<h1 align="center">Hi there, I'm <span style="color:#0ABDE3;">Nilansh</span> 👋</h1>
 
-<div align="center">
+<h3 align="center">
+  🚀 Full-Stack Developer | 💻 Java Specialist | 📚 DSA Problem Solver | 🤖 AI/ML Explorer
+</h3>
+
+<p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nilansh-07&label=Profile%20Views&color=12&icon=0&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=nilansh-07&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" alt="Profile Views" />
   </a>
-</div>
+</p>
+
 
 ---
 
