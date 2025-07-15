@@ -13,9 +13,21 @@
 
 ---
 
-🎓 **B.Tech CSE Graduate** | College of Engineering Roorkee  
-🔍 Seeking roles in **Data Engineering** or **Software Engineering**  
-🧠 Passionate about building scalable, data-driven solutions
+## 🙋‍♂️ About Me
+
+🎓 **B.Tech in Computer Science & Engineering (AI & ML Specialization)** – College of Engineering Roorkee  
+🔍 Actively seeking roles in **Artificial Intelligence**, **Machine Learning**, or **Software Engineering**  
+🧠 Passionate about designing scalable, intelligent, and data-driven systems that solve real-world problems  
+📊 Skilled in **Full-Stack Development**, **DSA**, and **ML/OCR Pipelines** with practical project experience  
+📌 Currently exploring **Generative AI**, **GraphQL**, and **real-time web systems**
+
+🚀 Known for:
+- 💡 Turning concepts into real-world solutions (400+ Leetcode problems solved)
+- 🧩 Rapid prototyping using tools like **Gradio**, **Socket.IO**, **Jupyter**, and **GraphQL**
+- 🧪 Building ML-enabled apps with OCR, dashboards, and live APIs
+- 🤝 Hackathon contributor and open-source team player
+
+✈️ Outside of tech, I’m passionate about travel, reading self-help books, and creative thinking.
 
 ---
 
