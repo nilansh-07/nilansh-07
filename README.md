@@ -15,7 +15,17 @@
 
 [![](https://visitcount.itsvg.in/api?id=nilansh-07&icon=0&color=12)](https://visitcount.itsvg.in)
 
-🌱 I’m currently learning AI/ML<br><br>💬 Ask me about Java, Python, and MERN Stack Development<br><br>📫 How to reach me nilanshkumar7500@gmail.com<br><br>⚡ Fun fact is that I Love Traveling to New Places
+## 🙋‍♂️ About Me
+<details>
+<summary>Click to expand</summary>
+
+- 🌱 Currently diving deep into **AI/ML**
+- 💡 Building full-stack applications using **MERN**
+- 🧠 Solving DSA problems in **Java**
+- 🎯 Aiming to build impactful, scalable solutions
+- ✈️ I love to read self-help books and explore new places and cultures 🌍
+
+</details>
 
 
 ## 🌐 Socials:
