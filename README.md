@@ -69,10 +69,11 @@
 - ✅ Cleared **TCS NQT Exam – Prime Role Eligible**
 
 ### 🌱 Soft Skills Certifications
-- [Typing Certification](https://drive.google.com/file/d/1aVTRYT4n0XjjTw1Ae4Q9W31As6kyTJgc/view?usp=sharing)  
-- [Personality Development](https://drive.google.com/file/d/1EdQaxY4nfcFA8kpwvMxDgxCoITREcpVU/view?usp=sharing)  
-- [Creative Confidence](https://drive.google.com/file/d/1Wxozf2IuuxDWwR_kIRMCKAGXJl7dyTcb/view?usp=sharing)  
-- [Active Listening](https://drive.google.com/file/d/1RY7t6ke_8d_gmOZlI-kOEnfeiajeBCpT/view?usp=sharing)
+
+[![Personality Development](https://img.shields.io/badge/Personality_Development-%23E1306C?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1EdQaxY4nfcFA8kpwvMxDgxCoITREcpVU/view?usp=sharing)
+[![Creative Confidence](https://img.shields.io/badge/Creative_Confidence-%23FF9F00?style=flat-square&logo=adobecreativecloud&logoColor=white)](https://drive.google.com/file/d/1Wxozf2IuuxDWwR_kIRMCKAGXJl7dyTcb/view?usp=sharing)
+[![Active Listening](https://img.shields.io/badge/Active_Listening-%2300C49F?style=flat-square&logo=audiomack&logoColor=white)](https://drive.google.com/file/d/1RY7t6ke_8d_gmOZlI-kOEnfeiajeBCpT/view?usp=sharing)
+[![Typing Certificate](https://img.shields.io/badge/Typing_Certified-%2300BFFF?style=flat-square&logo=windows&logoColor=white)](https://drive.google.com/file/d/1aVTRYT4n0XjjTw1Ae4Q9W31As6kyTJgc/view?usp=sharing)
 
 ---
 
