@@ -66,9 +66,9 @@
 [![AI/ML for Geodata Analysis](https://img.shields.io/badge/AI_ML_Geodata-%23007ACC?style=flat-square&logo=google-earth&logoColor=white)](https://drive.google.com/file/d/1OatUosK5i_1YZj5LLT9nJY8BtjS_Fshv/view?usp=sharing)
 [![Principles of Generative AI](https://img.shields.io/badge/Generative_AI-%235C2D91?style=flat-square&logo=openai&logoColor=white)](https://drive.google.com/file/d/1S5aDSFRY7yMKg99XhyNIyVX4z7L1ccZQ/view?usp=sharing)
 [![Infosys Internship](https://img.shields.io/badge/Infosys_Internship-%230077B5?style=flat-square&logo=infosys&logoColor=white)](https://drive.google.com/file/d/1Do-7hcyfMrGEeZ2z0JT8KEG2limkZxtN/view?usp=sharing)
+[![LeetCode – 400+ Problems Solved](https://img.shields.io/badge/LeetCode_400%2B_Solved-%23FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nilansh-07/)
+[![TCS NQT – Prime Role Eligible](https://img.shields.io/badge/TCS_NQT-Prime_Role_Eligible-%230078D4?style=flat-square&logo=tcs&logoColor=white)]()
 
-- ✅ Solved **400+ Leetcode Problems**  
-- ✅ Cleared **TCS NQT Exam – Prime Role Eligible**
 
 ### 🌱 Soft Skills Certifications
 
