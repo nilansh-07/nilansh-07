@@ -21,11 +21,14 @@
 
 ## 💼 Experience
 
-### 🔹 AI Intern — Infosys Springboard *(Remote)*  
-*Oct 2024 – Dec 2024*
-- Developed an end-to-end OCR system for financial documents (95% accuracy)
-- Integrated Llama-OCR with custom parsing using Python
-- Designed a Gradio UI, reducing manual effort by 80%
+### 🔹 AI Intern – [Infosys Springboard](https://www.infosys.com/springboard.html) `Remote` 
+🗓️ *Oct 2024 – Dec 2024*  
+[![Infosys](https://img.shields.io/badge/Infosys-%230077B5?style=flat-square&logo=infosys&logoColor=white)](https://www.infosys.com/springboard.html)
+
+**Key Contributions:**
+- ✅ Developed a high-accuracy OCR system (95%) for analyzing financial documents
+- 🧠 Integrated Llama-OCR with custom parsing scripts in Python
+- 🎛️ Built an intuitive **Gradio-based UI**, reducing manual document handling by 80%
 
 ---
 
