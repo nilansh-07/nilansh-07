@@ -25,21 +25,59 @@
 *Oct 2024 – Dec 2024*
 - Developed an end-to-end OCR system for financial documents (95% accuracy)
 - Integrated Llama-OCR with custom parsing using Python
-- Designed a Gradio UI reducing manual effort by 80%
+- Designed a Gradio UI, reducing manual effort by 80%
 
 ---
 
 ## 🚀 Projects
 
 ### 🔧 [Real-Time Code Editor](https://github.com/nilansh-07/realtime-code-editor)
-- Collaborative editor with React.js + WebSockets for 100+ users
-- Syntax highlighting, room-based sync, and dark mode UI  
-- **Stack**: React.js, Node.js, Express.js, WebSockets
+> A collaborative real-time code editor supporting 100+ users with multi-room sync and live collaboration.
+
+**Features:**  
+- Syntax highlighting with custom theme  
+- Real-time WebSocket sync between users  
+- Clean and intuitive dark mode UI
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23000000?style=flat-square&logo=websocket&logoColor=white)
+
+---
 
 ### 📊 [Leetcode Statistics Dashboard](https://github.com/nilansh-07/leetcode-user-dashboard)
-- Real-time coding stats from LeetCode using GraphQL API  
-- Responsive dashboard with 5+ KPIs and error handling  
-- **Stack**: React.js, Express.js, GraphQL
+> A dynamic dashboard to visualize LeetCode stats via the GraphQL API in real-time.
+
+**Features:**  
+- Fetches and displays key metrics like total solved, rank, and language stats  
+- Responsive UI with detailed visuals  
+- Robust error handling and loading states
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+### 🧾 [FinIntel AI – OCR & Analytics for Financial Documents](https://github.com/nilansh-07/FinIntel-AI) <!-- Add actual repo URL if public -->
+> Built an AI-powered OCR solution with ML-based validation and interactive UI for financial document automation.
+
+**Features:**  
+- Ensemble of EasyOCR, Tesseract, Llama-OCR  
+- Real-time text extraction with 95%+ accuracy  
+- Interactive visualization via the Gradio interface  
+- Reduced manual data entry by 80%
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%2300AEEF?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+
 
 ---
 
