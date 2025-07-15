@@ -159,13 +159,19 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilansh07)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilansh-07)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nilansh_07)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gVvQueV7)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19933809)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nilanshkumar7500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilansh07)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nilansh_07)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nilanshkumar)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/gVvQueV7)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19933809)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nilansh-07)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27?style=flat-square&logo=quora&logoColor=white)](https://quora.com/profile/Nilansh-Kumar-3)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/nilansh_07)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@nilansh_07)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/nilansh_07)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/nilansh_07)
 
-📬 **Email**: [nilanshkumar7500@gmail.com](mailto:nilanshkumar7500@gmail.com)
 
 ---
 
