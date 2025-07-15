@@ -35,9 +35,9 @@
 
 ## 💼 Experience
 
-### 🔹 AI Intern – [Infosys Springboard](https://www.infosys.com/springboard.html) `Remote` 
+### 🔹 AI Intern – [Infosys Springboard](https://infyspringboard.onwingspan.com/) `Remote` 
 🗓️ *Oct 2024 – Dec 2024*  
-[![Infosys](https://img.shields.io/badge/Infosys-%230077B5?style=flat-square&logo=infosys&logoColor=white)](https://www.infosys.com/springboard.html)
+[![Infosys](https://img.shields.io/badge/Infosys-%230077B5?style=flat-square&logo=infosys&logoColor=white)]([https://www.infyspringboard.onwingspan.com/](https://infyspringboard.onwingspan.com/))
 
 **Key Contributions:**
 - ✅ Developed a high-accuracy OCR system (95%) for analyzing financial documents
