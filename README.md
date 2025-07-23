@@ -9,6 +9,12 @@
 </h3>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1N8sJ87zqWWd-LHgy0lANOnVWTiVZKS9Q/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nilansh-07&color=0e75b6" alt="Profile Views"/>
 </p>
 
@@ -17,6 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
+📍 Based in India | 🟢 Open to Work – Remote / Hybrid / Onsite Roles  
 🎓 **B.Tech in Computer Science & Engineering (AI & ML Specialization)** – College of Engineering Roorkee  
 🔍 Actively seeking roles in **Artificial Intelligence**, **Machine Learning**, or **Software Engineering**  
 🧠 Passionate about designing scalable, intelligent, and data-driven systems that solve real-world problems  
@@ -194,7 +201,7 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## 📈 Growth Mindset Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
