@@ -217,4 +217,8 @@
   </a>
 </p>
 
-<!-- Proudly built with GPRM & ❤️ -->
+---
+## GitHub Profile View Tracker
+<p align="center">
+<img src="https://e08009fd602c.ngrok-free.app/pixel" width="100" height="100" />
+</p>
