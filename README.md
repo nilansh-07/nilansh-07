@@ -187,20 +187,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nilansh-07&theme=github-dark&no-frame=true&margin-w=8" alt="Trophies"/>
-</p>
-
----
-
-## GitHub Profile View Tracker
-<p align="center">
-<img src="https://e08009fd602c.ngrok-free.app/pixel" width="100" height="100" alt="." />
-</p>
-
----
 
 ## 📈 Growth Mindset Quote
 
