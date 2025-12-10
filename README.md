@@ -30,7 +30,7 @@
 - 🧪 Building ML-enabled apps with OCR, dashboards, and live APIs
 - 🤝 Hackathon contributor and open-source team player
 
-✈️ Outside of tech, I’m passionate about travel, reading self-help books, and creative thinking.
+✈️ Outside of tech, I’m passionate about travel and creative thinking.
 
 ---
 
@@ -41,7 +41,7 @@
 [![Infosys](https://img.shields.io/badge/Infosys-%230077B5?style=flat-square&logo=infosys&logoColor=white)]([https://www.infyspringboard.onwingspan.com/](https://infyspringboard.onwingspan.com/))
 
 **Key Contributions:**
-- ✅ Developed a high-accuracy OCR system (95%) for analyzing financial documents
+- ✅ Developed a high-accuracy OCR system (95%) for analysing financial documents
 - 🧠 Integrated Llama-OCR with custom parsing scripts in Python
 - 🎛️ Built an intuitive **Gradio-based UI**, reducing manual document handling by 80%
 
@@ -66,7 +66,7 @@
 ---
 
 ### 📊 [Leetcode Statistics Dashboard](https://github.com/nilansh-07/leetcode-user-dashboard)
-> A dynamic dashboard to visualize LeetCode stats via the GraphQL API in real-time.
+> A dynamic dashboard to visualise LeetCode stats via the GraphQL API in real-time.
 
 **Features:**  
 - Fetches and displays key metrics like total solved, rank, and language stats  
@@ -87,7 +87,7 @@
 **Features:**  
 - Ensemble of EasyOCR, Tesseract, Llama-OCR  
 - Real-time text extraction with 95%+ accuracy  
-- Interactive visualization via the Gradio interface  
+- Interactive visualisation via the Gradio interface  
 - Reduced manual data entry by 80%
 
 **Tech Stack:**  
@@ -195,12 +195,3 @@
 </p>
 
 ---
-
-## 💰 Support My Work
-
-<p align="center">
-  <a href="https://buymeacoffee.com/nilansh_07" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
